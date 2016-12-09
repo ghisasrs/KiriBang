@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">170223318617-7adem9r93jd4poa4k0a38e02f1tjl66c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kiribang-1a3c1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">170223318617</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2xQjYdE55Co8Z45rk_qKUk_12ZNyxBOE</string>
+    <string name="google_app_id" translatable="false">1:170223318617:android:0eb2c6dae9db0dd3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2xQjYdE55Co8Z45rk_qKUk_12ZNyxBOE</string>
+    <string name="google_storage_bucket" translatable="false">kiribang-1a3c1.appspot.com</string>
+</resources>

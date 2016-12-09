@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "170223318617",
+    "firebase_url": "https://kiribang-1a3c1.firebaseio.com",
+    "project_id": "kiribang-1a3c1",
+    "storage_bucket": "kiribang-1a3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170223318617:android:0f2bed5e9df32926",
+        "android_client_info": {
+          "package_name": "com.wolfsoft.checkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170223318617-7adem9r93jd4poa4k0a38e02f1tjl66c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xQjYdE55Co8Z45rk_qKUk_12ZNyxBOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170223318617:android:0eb2c6dae9db0dd3",
+        "android_client_info": {
+          "package_name": "com.example.ghisa.kiribang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170223318617-7adem9r93jd4poa4k0a38e02f1tjl66c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xQjYdE55Co8Z45rk_qKUk_12ZNyxBOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

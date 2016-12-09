@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.0_69a721ea79e822d29aaad7a8927e9852bc1e7712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.0_06a42af6853c32af96160d2fe59983709a38fd73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_af676e7d22c77f04c725a6161ddd16763d246544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_e834f888d40e88c0d03fc85a039ad12f501ee4f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.0_ad9205812449e16f396b001d7b7eca8d618b5e07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="896cb8f020b796e0b85be359bf29954ad8ebb412">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5140f1be744a9a144da8dd3acf49511ebf821fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.0_6fcf185215499eb456e9e7b3c1686fcb4c542fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.0_bc3464790975f5e22097a483f1f08ac264aa6203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.0_60cb825c96fd275c2f941f5a036593228dba34a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_274e385e43f359297ac8927a43f85f99531572dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.0_da8d9601f111ca71439710620a17e63698ee1eb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6106ffb2da70ab663273c81b76cb91bace11d5e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.0_c591a8e082ce9a2af63807c39394d5d4c45a72ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_ee16958498344beb665f99782a7da93ca7bcceef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.0_a50079b3b0d770b48bef316378d7b87a275e27c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.0_4152b0658a10de4e824efdaf8f803d7e2e35162a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_bb21198ae505760867e8361dc7960e152aa365f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6be360f667d0f01c937eca2a29b9350f191f6d71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.0_e1fca4b39fff01bd77df7e331a0d2966e704b6c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a2f5c96e3c88213e2ac0886e4defd214498785e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cb1a5fd4a746fa0bfe0a2441663cf162921f0b52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_73490e862f9bf01d90ec0813206713b89ba099fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.0_315b1c6d0b324abd358f56a9783e8c8dbbf31852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_0daf66e647d8b3dcca4a56156ad5accb27aa02f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_3ac4c4e74e79c40e8a2930a3644484d8b73c492f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_a031cf1e9ad4466a06611af2a711b07a6125555f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_b046eb2d61c2e54f7f2b4bddd918a9dc761d1ae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.0_0df2a44929382548511b7007d5f6b9a5fef5e081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.0_7a33bbd864793cc5bd9827ef24221e29f4329f8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.0_e128bc1deca4910d4e7b39c5eb9349f6217d4ed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.0_68a5bf00de3547212537e5361c52233825ab4a5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.0_cc4f9d5e2976c33f690641c8fa2c40040027b890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.0_317b0f675013fe6ce786b96812e5e7dd09a4b770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6c6c83f762774743c908e967f7bf897f403c4221">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ebc2ac3ef2ce5663b13796bfdb7e30f9a7435ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.0_b494c271bf80767cd987a8ef9ef7578991b42984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.0_42387df058b600a0b8b34ceef877abd1ac22b796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_83f65ab75c9dd4b4b7603f8bf3a25dd0e3e3bee1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.0_9649ca12843c4b1db1ab9b095fb0521b9eec9243\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.0_a76c063166b18d1d1bac70d800aadfdee9f21dbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_af9630537ff22bab6205e06ae032d328dae012ff\classes.dex" />
+    </item>
+
+</items>

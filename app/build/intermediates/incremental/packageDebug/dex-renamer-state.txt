@@ -1,0 +1,7 @@
+#Fri Dec 09 11:19:52 ICT 2016
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5140f1be744a9a144da8dd3acf49511ebf821fd8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ebc2ac3ef2ce5663b13796bfdb7e30f9a7435ba9\\classes.dex
+base.1=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ebc2ac3ef2ce5663b13796bfdb7e30f9a7435ba9
+file.0=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5140f1be744a9a144da8dd3acf49511ebf821fd8\\classes.dex
