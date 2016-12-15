@@ -5,13 +5,13 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="195600197951210"
-    token="-2922495273344745806"
+    timestamp="2224834249051"
+    token="-7388888069657017507"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="6012" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -23,14 +23,14 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\outputs\apk\app-debug.apk"
+        location="D:\Anantassa\Test\KiriBang\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="195600197951210"
+        timestamp="2885496023658"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\User\AndroidStudioProjects\KiriBang\app\build\outputs\apk\app-debug.apk"
+            location="D:\Anantassa\Test\KiriBang\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

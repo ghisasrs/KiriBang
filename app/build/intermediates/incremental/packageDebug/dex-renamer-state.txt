@@ -1,7 +1,7 @@
-#Fri Dec 09 11:19:52 ICT 2016
-base.0=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5140f1be744a9a144da8dd3acf49511ebf821fd8
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ebc2ac3ef2ce5663b13796bfdb7e30f9a7435ba9\\classes.dex
-base.1=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ebc2ac3ef2ce5663b13796bfdb7e30f9a7435ba9
-file.0=C\:\\Users\\User\\AndroidStudioProjects\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5140f1be744a9a144da8dd3acf49511ebf821fd8\\classes.dex
+#Thu Dec 15 13:22:40 ICT 2016
+base.0=D\:\\Anantassa\\Test\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d824b7974f9b2457bd4e99875e8807e12cc9d62
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Anantassa\\Test\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a59c4a65c92f7016f8b0cee86cbc4b5678c264d\\classes.dex
+base.1=D\:\\Anantassa\\Test\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4a59c4a65c92f7016f8b0cee86cbc4b5678c264d
+file.0=D\:\\Anantassa\\Test\\KiriBang\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5d824b7974f9b2457bd4e99875e8807e12cc9d62\\classes.dex
