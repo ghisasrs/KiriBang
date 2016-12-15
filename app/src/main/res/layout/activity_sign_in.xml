@@ -35,15 +35,16 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <TextView
-                android:text="Continue without sign in"
-                android:layout_width="wrap_content"
+            <Button
+                android:text="Continue"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/Without_SignIn"
-
+                android:id="@+id/without_SignIn"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="100dp"
                 />
+
+
         </LinearLayout>
 
     </LinearLayout>
